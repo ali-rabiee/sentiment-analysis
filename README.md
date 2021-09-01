@@ -1,4 +1,4 @@
-# **IMDB Sentiment Analysis**
+# **Sentiment Analysis**
 
 
 ### *Sentiment analysis of IMDB dataset.*
