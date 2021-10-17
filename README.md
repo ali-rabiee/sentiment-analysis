@@ -3,6 +3,9 @@
 
 ### *Sentiment analysis of IMDB dataset.*
 
+sentiment analysis on IMDB dataset: In this project, I use different data pre-processing techniques, such as  Stop words removal, stemming, lemma, and so on. Then I use different models to classification of comments. Also, I evaluate different clustering methods on this dataset. 
+
+
 <p align="center">
   <img src="https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdb.png" width="755" height="380"/>
 </p>
